@@ -3,7 +3,7 @@
 🌐 **Trilingual (FR | EN | AR) professional** who transitioned from leading business teams and managing financial strategies to building data-driven solutions.
 
 🎓 **Recent:** Completed an AEC in Big Data Development  
-🎯 **Now:** Pursuing an AEC in Artificial Intelligence and a Graduate Diploma [Ddiplôme d’études supérieures (D.E.S.S.)] in Project Management at HEC Montréal
+🎯 **Now:** Pursuing an AEC in Artificial Intelligence and a Graduate Diploma [Diplôme d’études supérieures (D.E.S.S.)] in Project Management at HEC Montréal
 
 ---
 
