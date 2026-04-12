@@ -22,7 +22,7 @@
 - 🔎 [FinMa](https://github.com/DrWhy007/finma) – Financial transaction automation with TF-IDF + CI/CD  
 - 📖 [OCR Tool](https://github.com/DrWhy007/OCR) – Image-to-searchable PDF using PyQt5 & Tesseract  
 - 🚗 Road Collisions – ML to forecast road collisions (XGBoost, RF)  
-- 🔐 [VaultPass](https://github.com/DrWhy007/vaultpass) – Local password manager (HTML/CSS/JS)  
+- 🔐 [Passtation](https://github.com/DrWhy007/Passtation) – Local password manager (HTML/CSS/JS)  
 - 📝 [BigDataNest.com](https://www.bigdatanest.com) – My tech blog & learning hub
 
 ---
